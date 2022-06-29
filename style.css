@@ -47,8 +47,10 @@ h3 {
     display: flex;
     flex-direction: row;
     align-items: center;
+    align-content: center;
     justify-content: space-evenly;
     margin-top: -60px;
+    border-radius: 6%;
 }
 
 .button {
